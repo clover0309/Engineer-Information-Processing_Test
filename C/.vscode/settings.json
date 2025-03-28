@@ -25,7 +25,10 @@
         "23.C": "cpp",
         "24.C": "cpp",
         "25.C": "cpp",
-        "26.C": "cpp"
+        "26.C": "cpp",
+        "27.C": "cpp",
+        "28.C": "cpp",
+        "29.C": "cpp"
     },
     "commentTranslate.browse.mode": "inplace"
 }
